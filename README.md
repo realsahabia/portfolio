@@ -18,7 +18,7 @@ I am Sahabia Yakubu aka sahaTech, a passionate and creative web developer with a
 Here are some of the projects featured on my portfolio:
 
 1. **Project Name 1**
-   - Description: 
+   - Description:
    - Technologies Used:
    - [Link to Project](#)
 
@@ -40,11 +40,11 @@ I specialize in the following technologies and skills:
 
 If you'd like to get in touch with me, whether it's for a potential project collaboration or just to say hello, feel free to reach out:
 
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn Profile](#)
-- GitHub: [Your GitHub Profile](#)
-- Twitter: [Your Twitter Profile](#)
-- Portfolio Website: [www.yourwebsite.com](#)
+- Email: <yakubukarim12@gmail.com>
+- LinkedIn: [My LinkedIn Account](https://www.linkedin.com/in/realsahabia/)
+- GitHub: [My GitHub Account](https://github.com/realsahabia)
+- Twitter: [My Twitter Account](https://twitter.com/realsahabia)
+- Portfolio Website: [sahatech](www.sahatech.info)
 
 I'm always open to new opportunities and exciting projects. Let's connect and make something amazing together!
 
