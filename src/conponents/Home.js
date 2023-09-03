@@ -4,14 +4,14 @@ import sahabia from '../Assets/sahabia.png';
 
 const Home = () => {
   return (
-    <div name="home" className="bg-slate-900 w-full h-screen flex justify-center items-center  ">
+    <div name="home" className='sm:bg-slate-900 w-full h-screen flex justify-center items-center'>
       
 {/* container */}
-<div className='max-w-[1000px] mx-auto px-8 h-full grid grid-cols-6 items-center'>
+<div className='max-w-[1000px] mx-auto px-8 h-full grid grid-cols-10 sm:grid-cols-6 items-center'>
   
   {/* Content div (60%) */}
-  <div className='col-span-5 z-2 sm:col-span-3'>
-    <div className='h-full mr-1 flex flex-col justify-center'>
+  <div className='col-span-10 sm:col-span-3'>
+    <div className='h-full mr-1 flex flex-col justify-center mt-[250px] bg-[#0000007e] sm:bg-[#0000] sm:col-span-5 p-4'>
       <p className='text-[#FF6100]'>Hi, my name is</p>
       <h1 className='text-5xl sm:text-6xl font-bold text-[#ccd6f6]'>Sahabia Yakubu</h1>
       <h2 className='text-4xl sm:text-6xl font-bold text-[#8892b0]'>I am a Web Developer</h2>
@@ -27,8 +27,8 @@ const Home = () => {
        </div>
 
         {/* Image div (40%) */}
-        <div className='hidden col-span-3 sm:flex  h-full justify-center items-center ml-5 grid-pic bg-[#8892b0] rounded-tl-[70px] rounded-tr-[70px]'>
-          <img src={sahabia} alt='./' className='w-full object-cover sm:flex-col' />
+        <div className='sm:col-span-3 flex h-[100vh] justify-center items-center sm:ml-5 grid-pic bg-[#8892b0] sm:rounded-tl-[70px] sm:rounded-tr-[70px]'>
+          <img src={sahabia} alt='./' className='w-full h-full object-cover sm:flex-col' />
         </div>
       </div>
 

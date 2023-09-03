@@ -29,9 +29,12 @@
     hsl(23, 88%, 70%)) !important;
 }
 
-..grid-pic {
-  background-image: url(./Assets/pattern-dot-grid.svg);
-  background-size: 34px 34px;
-  bottom: 0;
-  margin-left: 50px;
+@media screen and (max-width: 600px) {
+  .grid-pic {
+    position: absolute;
+    z-index: -1;
+    left: 0;
+    top: 50px;
+  }
 }
+
