@@ -10,7 +10,7 @@ const Home = () => {
 <div className='max-w-[1000px] mx-auto px-8 h-full grid grid-cols-10 sm:grid-cols-6 items-center'>
   
   {/* Content div (60%) */}
-  <div className='col-span-10 sm:col-span-3'>
+  <div className='col-span-10 sm:col-span-3 border-2 border-pink-600'>
     <div className='h-full mr-1 flex flex-col justify-center mt-[250px] bg-[#0000007e] sm:bg-[#0000] sm:col-span-5 p-4'>
       <p className='text-[#FF6100]'>Hi, my name is</p>
       <h1 className='text-5xl sm:text-6xl font-bold text-[#ccd6f6]'>Sahabia Yakubu</h1>
