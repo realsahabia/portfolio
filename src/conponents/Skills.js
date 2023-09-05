@@ -6,7 +6,7 @@ import HTML from '../Assets/html.png';
 import Reactimg from '../Assets/react.png';
 import Tailwind from '../Assets/tailwind.png';
 import Javascript from '../Assets/javascript.png';
-import Node from '../Assets/node.png';
+import Npm from '../Assets/npm.png';
 import Figma from '../Assets/Figma.png';
 
 const Skills = () => {
@@ -47,8 +47,8 @@ const Skills = () => {
                 </div>
 
                 <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                    <img className='w-20 mx-auto' src={Node} alt='Node icon' />
-                    <p className='my-4'>Node</p>
+                    <img className='w-20 mx-auto' src={Npm} alt='Npm icon' />
+                    <p className='my-4'>NPM</p>
                 </div>
 
                 <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
