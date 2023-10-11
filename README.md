@@ -29,7 +29,7 @@ For more details and additional projects, please visit my [Projects](#projects) 
 I specialize in the following technologies and skills:
 
 - Front-end Development: HTML, CSS, JavaScript, React, Vue.js
-- Back-end Development: Node.js, Express, Django
+- Back-end Development: Node.js, API, GraphQL, Apollo
 - Database Management: MongoDB, PostgreSQL, MySQL
 - Version Control: Git, GitHub
 - UI/UX Design: Figma
